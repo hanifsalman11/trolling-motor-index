@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "boat_name": "Minn Kota Terrova 80 lb 24V 60-Inch GPS Spot-Lock",
+    "slug": "minn-kota-terrova-80-lb-24v-60-inch-gps-spot-lock-thrust-shaft-battery-calculator",
+    "title": "Minn Kota Terrova 80 lb 24V 60-Inch GPS Spot-Lock Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Minn Kota Terrova 80 lb 24V 60-Inch GPS Spot-Lock.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-24"
+  },
+  {
+    "boat_name": "Minn Kota Ultrex QUEST 90/115 lb 24V/36V Brushless",
+    "slug": "minn-kota-ultrex-quest-90115-lb-24v36v-brushless-thrust-shaft-battery-calculator",
+    "title": "Minn Kota Ultrex QUEST 90/115 lb 24V/36V Brushless Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (112 lbs / 36V), shaft length (52\"), LiFePO4 battery runtime (5.5 hrs), and ABYC 60A wiring for Minn Kota Ultrex QUEST 90/115 lb 24V/36V Brushless.",
+    "thrust_lbs": 112,
+    "volts": 36,
+    "shaft_in": 52,
+    "date": "2026-10-24"
+  },
+  {
+    "boat_name": "Garmin Force Kraken 100 lb 36V 75-Inch Offshore",
+    "slug": "garmin-force-kraken-100-lb-36v-75-inch-offshore-thrust-shaft-battery-calculator",
+    "title": "Garmin Force Kraken 100 lb 36V 75-Inch Offshore Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (100 lbs / 36V), shaft length (75\"), LiFePO4 battery runtime (5.3 hrs), and ABYC 60A wiring for Garmin Force Kraken 100 lb 36V 75-Inch Offshore.",
+    "thrust_lbs": 100,
+    "volts": 36,
+    "shaft_in": 75,
+    "date": "2026-10-24"
+  }
+]

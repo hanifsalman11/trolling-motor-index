@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ThrustMotorIndex Marine Trolling Motor & LiFePO4 Database</title>
+    <link>https://hanifsalman11.github.io/trolling-motor-index/</link>
+    <description>Interactive Trolling Motor Thrust, Shaft Length & LiFePO4 Marine Battery Calculators</description>
+    <atom:link href="https://hanifsalman11.github.io/trolling-motor-index/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
+    <item>
+      <title>Garmin Force Kraken 100 lb 36V 75-Inch Offshore Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/trolling-motor-index/garmin-force-kraken-100-lb-36v-75-inch-offshore-thrust-shaft-battery-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/trolling-motor-index/garmin-force-kraken-100-lb-36v-75-inch-offshore-thrust-shaft-battery-calculator.html</guid>
+      <description>Calculate exact trolling motor thrust (100 lbs / 36V), shaft length (75"), LiFePO4 battery runtime (5.3 hrs), and ABYC 60A wiring for Garmin Force Kraken 100 lb 36V 75-Inch Offshore.</description>
+    </item>
+    <item>
+      <title>Minn Kota Ultrex QUEST 90/115 lb 24V/36V Brushless Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/trolling-motor-index/minn-kota-ultrex-quest-90115-lb-24v36v-brushless-thrust-shaft-battery-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/trolling-motor-index/minn-kota-ultrex-quest-90115-lb-24v36v-brushless-thrust-shaft-battery-calculator.html</guid>
+      <description>Calculate exact trolling motor thrust (112 lbs / 36V), shaft length (52"), LiFePO4 battery runtime (5.5 hrs), and ABYC 60A wiring for Minn Kota Ultrex QUEST 90/115 lb 24V/36V Brushless.</description>
+    </item>
+    <item>
+      <title>Minn Kota Terrova 80 lb 24V 60-Inch GPS Spot-Lock Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/trolling-motor-index/minn-kota-terrova-80-lb-24v-60-inch-gps-spot-lock-thrust-shaft-battery-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/trolling-motor-index/minn-kota-terrova-80-lb-24v-60-inch-gps-spot-lock-thrust-shaft-battery-calculator.html</guid>
+      <description>Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Minn Kota Terrova 80 lb 24V 60-Inch GPS Spot-Lock.</description>
+    </item>
+  </channel>
+</rss>
