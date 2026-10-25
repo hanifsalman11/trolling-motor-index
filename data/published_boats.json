@@ -118,5 +118,35 @@
     "volts": 12,
     "shaft_in": 42,
     "date": "2026-10-25"
+  },
+  {
+    "boat_name": "16-Foot Aluminum Jon Boat & Utility Skiff",
+    "slug": "16-foot-aluminum-jon-boat-utility-skiff-thrust-shaft-battery-calculator",
+    "title": "16-Foot Aluminum Jon Boat & Utility Skiff Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (55 lbs / 12V), shaft length (45\"), LiFePO4 battery runtime (5.7 hrs), and ABYC 60A wiring for 16-Foot Aluminum Jon Boat & Utility Skiff.",
+    "thrust_lbs": 55,
+    "volts": 12,
+    "shaft_in": 45,
+    "date": "2026-10-25"
+  },
+  {
+    "boat_name": "17-Foot Tracker Pro Team 175 TXW Aluminum Bass Boat",
+    "slug": "17-foot-tracker-pro-team-175-txw-aluminum-bass-boat-thrust-shaft-battery-calculator",
+    "title": "17-Foot Tracker Pro Team 175 TXW Aluminum Bass Boat Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (70 lbs / 24V), shaft length (45\"), LiFePO4 battery runtime (5.5 hrs), and ABYC 60A wiring for 17-Foot Tracker Pro Team 175 TXW Aluminum Bass Boat.",
+    "thrust_lbs": 70,
+    "volts": 24,
+    "shaft_in": 45,
+    "date": "2026-10-25"
+  },
+  {
+    "boat_name": "18-Foot Fiberglass Bass Boat (Ranger / Nitro / Skeeter)",
+    "slug": "18-foot-fiberglass-bass-boat-ranger-nitro-skeeter-thrust-shaft-battery-calculator",
+    "title": "18-Foot Fiberglass Bass Boat (Ranger / Nitro / Skeeter) Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (52\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for 18-Foot Fiberglass Bass Boat (Ranger / Nitro / Skeeter).",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 52,
+    "date": "2026-10-25"
   }
 ]
