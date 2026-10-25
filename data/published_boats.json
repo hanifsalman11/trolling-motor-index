@@ -28,5 +28,35 @@
     "volts": 36,
     "shaft_in": 75,
     "date": "2026-10-24"
+  },
+  {
+    "boat_name": "Garmin Force 57-Inch 24V/36V Freshwater Bass Motor",
+    "slug": "garmin-force-57-inch-24v36v-freshwater-bass-motor-thrust-shaft-battery-calculator",
+    "title": "Garmin Force 57-Inch 24V/36V Freshwater Bass Motor Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (57\"), LiFePO4 battery runtime (5.7 hrs), and ABYC 60A wiring for Garmin Force 57-Inch 24V/36V Freshwater Bass Motor.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 57,
+    "date": "2026-10-25"
+  },
+  {
+    "boat_name": "Minn Kota Riptide Terrova 112 lb 36V 72-Inch Saltwater",
+    "slug": "minn-kota-riptide-terrova-112-lb-36v-72-inch-saltwater-thrust-shaft-battery-calculator",
+    "title": "Minn Kota Riptide Terrova 112 lb 36V 72-Inch Saltwater Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (112 lbs / 36V), shaft length (72\"), LiFePO4 battery runtime (5.5 hrs), and ABYC 60A wiring for Minn Kota Riptide Terrova 112 lb 36V 72-Inch Saltwater.",
+    "thrust_lbs": 112,
+    "volts": 36,
+    "shaft_in": 72,
+    "date": "2026-10-25"
+  },
+  {
+    "boat_name": "Minn Kota PowerDrive 55 lb 12V 54-Inch Bow-Mount",
+    "slug": "minn-kota-powerdrive-55-lb-12v-54-inch-bow-mount-thrust-shaft-battery-calculator",
+    "title": "Minn Kota PowerDrive 55 lb 12V 54-Inch Bow-Mount Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (55 lbs / 12V), shaft length (54\"), LiFePO4 battery runtime (5.7 hrs), and ABYC 60A wiring for Minn Kota PowerDrive 55 lb 12V 54-Inch Bow-Mount.",
+    "thrust_lbs": 55,
+    "volts": 12,
+    "shaft_in": 54,
+    "date": "2026-10-25"
   }
 ]
