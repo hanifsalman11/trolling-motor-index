@@ -208,5 +208,35 @@
     "volts": 36,
     "shaft_in": 60,
     "date": "2026-10-26"
+  },
+  {
+    "boat_name": "17-Foot Deep-V Aluminum Walleye Boat (Lund / Crestliner)",
+    "slug": "17-foot-deep-v-aluminum-walleye-boat-lund-crestliner-thrust-shaft-battery-calculator",
+    "title": "17-Foot Deep-V Aluminum Walleye Boat (Lund / Crestliner) Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for 17-Foot Deep-V Aluminum Walleye Boat (Lund / Crestliner).",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-26"
+  },
+  {
+    "boat_name": "19-Foot Deep-V Multi-Species Walleye Boat",
+    "slug": "19-foot-deep-v-multi-species-walleye-boat-thrust-shaft-battery-calculator",
+    "title": "19-Foot Deep-V Multi-Species Walleye Boat Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (112 lbs / 36V), shaft length (60\"), LiFePO4 battery runtime (5.5 hrs), and ABYC 60A wiring for 19-Foot Deep-V Multi-Species Walleye Boat.",
+    "thrust_lbs": 112,
+    "volts": 36,
+    "shaft_in": 60,
+    "date": "2026-10-26"
+  },
+  {
+    "boat_name": "12-Foot Pedal & Tournament Fishing Kayak",
+    "slug": "12-foot-pedal-tournament-fishing-kayak-thrust-shaft-battery-calculator",
+    "title": "12-Foot Pedal & Tournament Fishing Kayak Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (45 lbs / 12V), shaft length (36\"), LiFePO4 battery runtime (6.8 hrs), and ABYC 60A wiring for 12-Foot Pedal & Tournament Fishing Kayak.",
+    "thrust_lbs": 45,
+    "volts": 12,
+    "shaft_in": 36,
+    "date": "2026-10-26"
   }
 ]
