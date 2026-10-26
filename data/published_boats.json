@@ -178,5 +178,35 @@
     "volts": 36,
     "shaft_in": 72,
     "date": "2026-10-26"
+  },
+  {
+    "boat_name": "24-Foot Offshore Center Console Fishing Boat",
+    "slug": "24-foot-offshore-center-console-fishing-boat-thrust-shaft-battery-calculator",
+    "title": "24-Foot Offshore Center Console Fishing Boat Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (112 lbs / 36V), shaft length (87\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for 24-Foot Offshore Center Console Fishing Boat.",
+    "thrust_lbs": 112,
+    "volts": 36,
+    "shaft_in": 87,
+    "date": "2026-10-26"
+  },
+  {
+    "boat_name": "20-Foot Family Fishing Pontoon Boat",
+    "slug": "20-foot-family-fishing-pontoon-boat-thrust-shaft-battery-calculator",
+    "title": "20-Foot Family Fishing Pontoon Boat Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for 20-Foot Family Fishing Pontoon Boat.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-26"
+  },
+  {
+    "boat_name": "24-Foot Tri-Toon Deck & Fishing Pontoon Boat",
+    "slug": "24-foot-tri-toon-deck-fishing-pontoon-boat-thrust-shaft-battery-calculator",
+    "title": "24-Foot Tri-Toon Deck & Fishing Pontoon Boat Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (112 lbs / 36V), shaft length (60\"), LiFePO4 battery runtime (5.5 hrs), and ABYC 60A wiring for 24-Foot Tri-Toon Deck & Fishing Pontoon Boat.",
+    "thrust_lbs": 112,
+    "volts": 36,
+    "shaft_in": 60,
+    "date": "2026-10-26"
   }
 ]
