@@ -148,5 +148,35 @@
     "volts": 24,
     "shaft_in": 52,
     "date": "2026-10-25"
+  },
+  {
+    "boat_name": "20-Foot Tournament Bass Boat (250HP Outboard)",
+    "slug": "20-foot-tournament-bass-boat-250hp-outboard-thrust-shaft-battery-calculator",
+    "title": "20-Foot Tournament Bass Boat (250HP Outboard) Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (112 lbs / 36V), shaft length (52\"), LiFePO4 battery runtime (5.5 hrs), and ABYC 60A wiring for 20-Foot Tournament Bass Boat (250HP Outboard).",
+    "thrust_lbs": 112,
+    "volts": 36,
+    "shaft_in": 52,
+    "date": "2026-10-26"
+  },
+  {
+    "boat_name": "19-Foot Carolina Skiff & Shallow Bay Boat",
+    "slug": "19-foot-carolina-skiff-shallow-bay-boat-thrust-shaft-battery-calculator",
+    "title": "19-Foot Carolina Skiff & Shallow Bay Boat Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for 19-Foot Carolina Skiff & Shallow Bay Boat.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-26"
+  },
+  {
+    "boat_name": "22-Foot Center Console Inshore/Offshore Bay Boat",
+    "slug": "22-foot-center-console-inshoreoffshore-bay-boat-thrust-shaft-battery-calculator",
+    "title": "22-Foot Center Console Inshore/Offshore Bay Boat Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (112 lbs / 36V), shaft length (72\"), LiFePO4 battery runtime (5.5 hrs), and ABYC 60A wiring for 22-Foot Center Console Inshore/Offshore Bay Boat.",
+    "thrust_lbs": 112,
+    "volts": 36,
+    "shaft_in": 72,
+    "date": "2026-10-26"
   }
 ]
