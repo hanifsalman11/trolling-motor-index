@@ -298,5 +298,35 @@
     "volts": 36,
     "shaft_in": 45,
     "date": "2026-10-27"
+  },
+  {
+    "boat_name": "Kayak",
+    "slug": "kayak-thrust-shaft-battery-calculator",
+    "title": "Kayak Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Kayak.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-27"
+  },
+  {
+    "boat_name": "12Ft Jon Boat",
+    "slug": "12ft-jon-boat-thrust-shaft-battery-calculator",
+    "title": "12Ft Jon Boat Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for 12Ft Jon Boat.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-27"
+  },
+  {
+    "boat_name": "18Ft Boat",
+    "slug": "18ft-boat-thrust-shaft-battery-calculator",
+    "title": "18Ft Boat Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for 18Ft Boat.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-27"
   }
 ]
