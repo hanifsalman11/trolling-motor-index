@@ -238,5 +238,35 @@
     "volts": 12,
     "shaft_in": 36,
     "date": "2026-10-26"
+  },
+  {
+    "boat_name": "14-FootSolo Skiff & Micro Flats Boat",
+    "slug": "14-footsolo-skiff-micro-flats-boat-thrust-shaft-battery-calculator",
+    "title": "14-FootSolo Skiff & Micro Flats Boat Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (55 lbs / 12V), shaft length (42\"), LiFePO4 battery runtime (5.7 hrs), and ABYC 60A wiring for 14-FootSolo Skiff & Micro Flats Boat.",
+    "thrust_lbs": 55,
+    "volts": 12,
+    "shaft_in": 42,
+    "date": "2026-10-27"
+  },
+  {
+    "boat_name": "18-Foot Technical Poling Flats Skiff",
+    "slug": "18-foot-technical-poling-flats-skiff-thrust-shaft-battery-calculator",
+    "title": "18-Foot Technical Poling Flats Skiff Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (52\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for 18-Foot Technical Poling Flats Skiff.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 52,
+    "date": "2026-10-27"
+  },
+  {
+    "boat_name": "21-Foot Aluminum Center Console River Jet Boat",
+    "slug": "21-foot-aluminum-center-console-river-jet-boat-thrust-shaft-battery-calculator",
+    "title": "21-Foot Aluminum Center Console River Jet Boat Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for 21-Foot Aluminum Center Console River Jet Boat.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-27"
   }
 ]
