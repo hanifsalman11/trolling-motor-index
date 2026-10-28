@@ -388,5 +388,35 @@
     "volts": 24,
     "shaft_in": 60,
     "date": "2026-10-28"
+  },
+  {
+    "boat_name": "A 17 Foot Boat",
+    "slug": "a-17-foot-boat-thrust-shaft-battery-calculator",
+    "title": "A 17 Foot Boat Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for A 17 Foot Boat.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-28"
+  },
+  {
+    "boat_name": "Trolling Motor",
+    "slug": "trolling-motor-thrust-shaft-battery-calculator",
+    "title": "Trolling Motor Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Trolling Motor.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-28"
+  },
+  {
+    "boat_name": "Remote",
+    "slug": "remote-thrust-shaft-battery-calculator",
+    "title": "Remote Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Remote.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-28"
   }
 ]

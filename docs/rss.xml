@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/trolling-motor-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Remote Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/trolling-motor-index/remote-thrust-shaft-battery-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/trolling-motor-index/remote-thrust-shaft-battery-calculator.html</guid>
+      <description>Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Remote.</description>
+    </item>
+    <item>
+      <title>Trolling Motor Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/trolling-motor-index/trolling-motor-thrust-shaft-battery-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/trolling-motor-index/trolling-motor-thrust-shaft-battery-calculator.html</guid>
+      <description>Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Trolling Motor.</description>
+    </item>
+    <item>
+      <title>A 17 Foot Boat Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/trolling-motor-index/a-17-foot-boat-thrust-shaft-battery-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/trolling-motor-index/a-17-foot-boat-thrust-shaft-battery-calculator.html</guid>
+      <description>Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for A 17 Foot Boat.</description>
+    </item>
+    <item>
       <title>Jon Boat Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/trolling-motor-index/jon-boat-thrust-shaft-battery-calculator.html</link>
       <guid>https://hanifsalman11.github.io/trolling-motor-index/jon-boat-thrust-shaft-battery-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/trolling-motor-index/16-foot-aluminum-jon-boat-utility-skiff-thrust-shaft-battery-calculator.html</link>
       <guid>https://hanifsalman11.github.io/trolling-motor-index/16-foot-aluminum-jon-boat-utility-skiff-thrust-shaft-battery-calculator.html</guid>
       <description>Calculate exact trolling motor thrust (55 lbs / 12V), shaft length (45"), LiFePO4 battery runtime (5.7 hrs), and ABYC 60A wiring for 16-Foot Aluminum Jon Boat & Utility Skiff.</description>
-    </item>
-    <item>
-      <title>Minn Kota Endura Max 55 lb 12V Digital Maximizer Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/trolling-motor-index/minn-kota-endura-max-55-lb-12v-digital-maximizer-thrust-shaft-battery-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/trolling-motor-index/minn-kota-endura-max-55-lb-12v-digital-maximizer-thrust-shaft-battery-calculator.html</guid>
-      <description>Calculate exact trolling motor thrust (55 lbs / 12V), shaft length (42"), LiFePO4 battery runtime (5.7 hrs), and ABYC 60A wiring for Minn Kota Endura Max 55 lb 12V Digital Maximizer.</description>
-    </item>
-    <item>
-      <title>Newport Vessels NK180PRO 1.8HP 24V/36V Kayak Motor Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/trolling-motor-index/newport-vessels-nk180pro-18hp-24v36v-kayak-motor-thrust-shaft-battery-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/trolling-motor-index/newport-vessels-nk180pro-18hp-24v36v-kayak-motor-thrust-shaft-battery-calculator.html</guid>
-      <description>Calculate exact trolling motor thrust (65 lbs / 24V), shaft length (36"), LiFePO4 battery runtime (9.5 hrs), and ABYC 60A wiring for Newport Vessels NK180PRO 1.8HP 24V/36V Kayak Motor.</description>
-    </item>
-    <item>
-      <title>Lowrance Recon 72-Inch 36V Saltwater GPS Motor Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/trolling-motor-index/lowrance-recon-72-inch-36v-saltwater-gps-motor-thrust-shaft-battery-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/trolling-motor-index/lowrance-recon-72-inch-36v-saltwater-gps-motor-thrust-shaft-battery-calculator.html</guid>
-      <description>Calculate exact trolling motor thrust (105 lbs / 36V), shaft length (72"), LiFePO4 battery runtime (5.3 hrs), and ABYC 60A wiring for Lowrance Recon 72-Inch 36V Saltwater GPS Motor.</description>
     </item>
   </channel>
 </rss>
