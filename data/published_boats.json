@@ -358,5 +358,35 @@
     "volts": 24,
     "shaft_in": 60,
     "date": "2026-10-27"
+  },
+  {
+    "boat_name": "14Ft Aluminum Boat",
+    "slug": "14ft-aluminum-boat-thrust-shaft-battery-calculator",
+    "title": "14Ft Aluminum Boat Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for 14Ft Aluminum Boat.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-28"
+  },
+  {
+    "boat_name": "Pontoon",
+    "slug": "pontoon-thrust-shaft-battery-calculator",
+    "title": "Pontoon Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Pontoon.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-28"
+  },
+  {
+    "boat_name": "Jon Boat",
+    "slug": "jon-boat-thrust-shaft-battery-calculator",
+    "title": "Jon Boat Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Jon Boat.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-28"
   }
 ]
