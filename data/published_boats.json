@@ -418,5 +418,35 @@
     "volts": 24,
     "shaft_in": 60,
     "date": "2026-10-28"
+  },
+  {
+    "boat_name": "Foot Pedal",
+    "slug": "foot-pedal-thrust-shaft-battery-calculator",
+    "title": "Foot Pedal Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Foot Pedal.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-28"
+  },
+  {
+    "boat_name": "Parts",
+    "slug": "parts-thrust-shaft-battery-calculator",
+    "title": "Parts Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Parts.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-28"
+  },
+  {
+    "boat_name": "Quest",
+    "slug": "quest-thrust-shaft-battery-calculator",
+    "title": "Quest Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Quest.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-28"
   }
 ]
