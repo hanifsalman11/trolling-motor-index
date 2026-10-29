@@ -448,5 +448,35 @@
     "volts": 24,
     "shaft_in": 60,
     "date": "2026-10-28"
+  },
+  {
+    "boat_name": "Parts Diagram",
+    "slug": "parts-diagram-thrust-shaft-battery-calculator",
+    "title": "Parts Diagram Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Parts Diagram.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-29"
+  },
+  {
+    "boat_name": "Quick Release Bracket",
+    "slug": "quick-release-bracket-thrust-shaft-battery-calculator",
+    "title": "Quick Release Bracket Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Quick Release Bracket.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-29"
+  },
+  {
+    "boat_name": "Pontoon Boat",
+    "slug": "pontoon-boat-thrust-shaft-battery-calculator",
+    "title": "Pontoon Boat Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Pontoon Boat.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-29"
   }
 ]
