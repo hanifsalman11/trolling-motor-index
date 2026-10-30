@@ -568,5 +568,35 @@
     "volts": 24,
     "shaft_in": 60,
     "date": "2026-10-30"
+  },
+  {
+    "boat_name": "Lifepo4 Battery Replacement  Ups",
+    "slug": "lifepo4-battery-replacement-ups-thrust-shaft-battery-calculator",
+    "title": "Lifepo4 Battery Replacement  Ups Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Lifepo4 Battery Replacement  Ups.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-30"
+  },
+  {
+    "boat_name": "Lithium Battery   Livescope",
+    "slug": "lithium-battery-livescope-thrust-shaft-battery-calculator",
+    "title": "Lithium Battery   Livescope Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Lithium Battery   Livescope.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-30"
+  },
+  {
+    "boat_name": "Lithium Battery   Solar",
+    "slug": "lithium-battery-solar-thrust-shaft-battery-calculator",
+    "title": "Lithium Battery   Solar Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Lithium Battery   Solar.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-30"
   }
 ]
