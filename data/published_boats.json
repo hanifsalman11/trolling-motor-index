@@ -598,5 +598,35 @@
     "volts": 24,
     "shaft_in": 60,
     "date": "2026-10-30"
+  },
+  {
+    "boat_name": "Lithium Battery   Inverter",
+    "slug": "lithium-battery-inverter-thrust-shaft-battery-calculator",
+    "title": "Lithium Battery   Inverter Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Lithium Battery   Inverter.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-30"
+  },
+  {
+    "boat_name": "Lithium Battery   Rv",
+    "slug": "lithium-battery-rv-thrust-shaft-battery-calculator",
+    "title": "Lithium Battery   Rv Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Lithium Battery   Rv.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-30"
+  },
+  {
+    "boat_name": "Lithium Battery Sizes  Golf Carts",
+    "slug": "lithium-battery-sizes-golf-carts-thrust-shaft-battery-calculator",
+    "title": "Lithium Battery Sizes  Golf Carts Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Lithium Battery Sizes  Golf Carts.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-30"
   }
 ]
