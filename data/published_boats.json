@@ -628,5 +628,25 @@
     "volts": 24,
     "shaft_in": 60,
     "date": "2026-10-30"
+  },
+  {
+    "boat_name": "Lithium Battery Replacement  Golf Cart",
+    "slug": "lithium-battery-replacement-golf-cart-thrust-shaft-battery-calculator",
+    "title": "Lithium Battery Replacement  Golf Cart Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Lithium Battery Replacement  Golf Cart.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-31"
+  },
+  {
+    "boat_name": "Lithium Battery Replacement  Lead Acid",
+    "slug": "lithium-battery-replacement-lead-acid-thrust-shaft-battery-calculator",
+    "title": "Lithium Battery Replacement  Lead Acid Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Lithium Battery Replacement  Lead Acid.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-10-31"
   }
 ]
