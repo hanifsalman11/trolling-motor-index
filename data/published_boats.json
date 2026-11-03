@@ -648,5 +648,15 @@
     "volts": 24,
     "shaft_in": 60,
     "date": "2026-10-31"
+  },
+  {
+    "boat_name": "14-Foot Solo Skiff & Micro Flats Boat",
+    "slug": "14-foot-solo-skiff-micro-flats-boat-thrust-shaft-battery-calculator",
+    "title": "14-Foot Solo Skiff & Micro Flats Boat Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (55 lbs / 12V), shaft length (42\"), LiFePO4 battery runtime (5.7 hrs), and ABYC 60A wiring for 14-Foot Solo Skiff & Micro Flats Boat.",
+    "thrust_lbs": 55,
+    "volts": 12,
+    "shaft_in": 42,
+    "date": "2026-11-03"
   }
 ]

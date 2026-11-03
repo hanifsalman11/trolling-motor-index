@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/trolling-motor-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>14-Foot Solo Skiff & Micro Flats Boat Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/trolling-motor-index/14-foot-solo-skiff-micro-flats-boat-thrust-shaft-battery-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/trolling-motor-index/14-foot-solo-skiff-micro-flats-boat-thrust-shaft-battery-calculator.html</guid>
+      <description>Calculate exact trolling motor thrust (55 lbs / 12V), shaft length (42"), LiFePO4 battery runtime (5.7 hrs), and ABYC 60A wiring for 14-Foot Solo Skiff & Micro Flats Boat.</description>
+    </item>
+    <item>
       <title>Lithium Battery Replacement  Lead Acid Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/trolling-motor-index/lithium-battery-replacement-lead-acid-thrust-shaft-battery-calculator.html</link>
       <guid>https://hanifsalman11.github.io/trolling-motor-index/lithium-battery-replacement-lead-acid-thrust-shaft-battery-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/trolling-motor-index/14ft-aluminum-boat-thrust-shaft-battery-calculator.html</link>
       <guid>https://hanifsalman11.github.io/trolling-motor-index/14ft-aluminum-boat-thrust-shaft-battery-calculator.html</guid>
       <description>Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for 14Ft Aluminum Boat.</description>
-    </item>
-    <item>
-      <title>My Boat Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/trolling-motor-index/my-boat-thrust-shaft-battery-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/trolling-motor-index/my-boat-thrust-shaft-battery-calculator.html</guid>
-      <description>Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for My Boat.</description>
     </item>
   </channel>
 </rss>
