@@ -658,5 +658,35 @@
     "volts": 12,
     "shaft_in": 42,
     "date": "2026-11-03"
+  },
+  {
+    "boat_name": "14Ft Jon Boat",
+    "slug": "14ft-jon-boat-thrust-shaft-battery-calculator",
+    "title": "14Ft Jon Boat Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for 14Ft Jon Boat.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-11-04"
+  },
+  {
+    "boat_name": "18Ft Aluminum Boat",
+    "slug": "18ft-aluminum-boat-thrust-shaft-battery-calculator",
+    "title": "18Ft Aluminum Boat Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for 18Ft Aluminum Boat.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-11-04"
+  },
+  {
+    "boat_name": "55 I-Pilot",
+    "slug": "55-i-pilot-thrust-shaft-battery-calculator",
+    "title": "55 I-Pilot Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60\"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for 55 I-Pilot.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-11-04"
   }
 ]
