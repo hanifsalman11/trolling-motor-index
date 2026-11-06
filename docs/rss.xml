@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/trolling-motor-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>16Ft Jon Boat Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/trolling-motor-index/16ft-jon-boat-thrust-shaft-battery-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/trolling-motor-index/16ft-jon-boat-thrust-shaft-battery-calculator.html</guid>
+      <description>Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for 16Ft Jon Boat.</description>
+    </item>
+    <item>
       <title>A 14 Foot Boat Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/trolling-motor-index/a-14-foot-boat-thrust-shaft-battery-calculator.html</link>
       <guid>https://hanifsalman11.github.io/trolling-motor-index/a-14-foot-boat-thrust-shaft-battery-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/trolling-motor-index/remote-thrust-shaft-battery-calculator.html</link>
       <guid>https://hanifsalman11.github.io/trolling-motor-index/remote-thrust-shaft-battery-calculator.html</guid>
       <description>Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Remote.</description>
-    </item>
-    <item>
-      <title>Trolling Motor Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/trolling-motor-index/trolling-motor-thrust-shaft-battery-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/trolling-motor-index/trolling-motor-thrust-shaft-battery-calculator.html</guid>
-      <description>Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Trolling Motor.</description>
     </item>
   </channel>
 </rss>
