@@ -708,5 +708,15 @@
     "volts": 24,
     "shaft_in": 60,
     "date": "2026-11-06"
+  },
+  {
+    "boat_name": "Transom Mount",
+    "slug": "transom-mount-thrust-shaft-battery-calculator",
+    "title": "Transom Mount Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)",
+    "description": "Calculate exact trolling motor thrust (lbs), shaft length (inches), LiFePO4 battery runtime, and ABYC 60A wire gauge for Transom Mount.",
+    "thrust_lbs": 80,
+    "volts": 24,
+    "shaft_in": 60,
+    "date": "2026-11-23"
   }
 ]
