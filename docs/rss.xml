@@ -7,6 +7,18 @@
     <atom:link href="https://hanifsalman11.github.io/trolling-motor-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>A 18 Foot Boat Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/trolling-motor-index/a-18-foot-boat-thrust-shaft-battery-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/trolling-motor-index/a-18-foot-boat-thrust-shaft-battery-calculator.html</guid>
+      <description>Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for A 18 Foot Boat.</description>
+    </item>
+    <item>
+      <title>A 16 Foot Boat Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/trolling-motor-index/a-16-foot-boat-thrust-shaft-battery-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/trolling-motor-index/a-16-foot-boat-thrust-shaft-battery-calculator.html</guid>
+      <description>Calculate exact trolling motor thrust (lbs), shaft length (inches), LiFePO4 battery runtime, and ABYC 60A wire gauge for A 16 Foot Boat.</description>
+    </item>
+    <item>
       <title>Transom Mount Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/trolling-motor-index/transom-mount-thrust-shaft-battery-calculator.html</link>
       <guid>https://hanifsalman11.github.io/trolling-motor-index/transom-mount-thrust-shaft-battery-calculator.html</guid>
@@ -173,18 +185,6 @@
       <link>https://hanifsalman11.github.io/trolling-motor-index/quest-thrust-shaft-battery-calculator.html</link>
       <guid>https://hanifsalman11.github.io/trolling-motor-index/quest-thrust-shaft-battery-calculator.html</guid>
       <description>Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Quest.</description>
-    </item>
-    <item>
-      <title>Parts Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/trolling-motor-index/parts-thrust-shaft-battery-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/trolling-motor-index/parts-thrust-shaft-battery-calculator.html</guid>
-      <description>Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Parts.</description>
-    </item>
-    <item>
-      <title>Foot Pedal Thrust, Shaft Length & LiFePO4 Battery Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/trolling-motor-index/foot-pedal-thrust-shaft-battery-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/trolling-motor-index/foot-pedal-thrust-shaft-battery-calculator.html</guid>
-      <description>Calculate exact trolling motor thrust (80 lbs / 24V), shaft length (60"), LiFePO4 battery runtime (5.1 hrs), and ABYC 60A wiring for Foot Pedal.</description>
     </item>
   </channel>
 </rss>
